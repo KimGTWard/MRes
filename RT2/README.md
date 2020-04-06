@@ -1,0 +1,1 @@
+This was a longer project on stochastic programming, dimensionality, and uncertainty. The coding for this project was done using Julia and a large part of my early work on the project was teaching myself the language, as well as the JuMP modelling system.
